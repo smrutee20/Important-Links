@@ -7,6 +7,9 @@ To learn more about the differences between 'Size' and 'Size on Disk' in Windows
 This article explains how file system allocation, clusters, and file compression affect these two values, offering insights into why a file's 'Size on Disk' can differ from its actual 'Size.'
 
 
+----------------------------------------------------------------------------------------------------------------
+
+
 ### Computer Architecture and CPU Resources By Intel
 
 For an in-depth understanding of computer architecture and the CPU, check out the following videos that explain the core concepts and workings in detail:
