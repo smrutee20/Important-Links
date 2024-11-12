@@ -99,7 +99,9 @@ For a deeper dive, check out [Microsoft's VPN overview](https://azure.microsoft.
 
 ### amazing facts!
 
+## CPU IN 10 min Must Watch!!
 
+https://www.youtube.com/watch?v=q-69A_aCg4w
 
 ## Origins of "Foo" in Programming  
 
